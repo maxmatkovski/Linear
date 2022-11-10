@@ -13,7 +13,7 @@ After importing the data set with pandas this is what our dataframe looks like.
 
 The following features aren't interesting to us, so we will just go ahead and drop them for now. 
 
-### Features we will be dropping
+#### Features we will be dropping
 - **Unnamed:0**
 - **4046 (Total number of avocados with PLU 4046 sold)**
 - **4225 (Total number of avocados with PLU 4225 sold)**
